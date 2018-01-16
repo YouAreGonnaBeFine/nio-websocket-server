@@ -17,3 +17,6 @@ The location is `/athena-s-alpha/src/main/resources/application.properties`.
 Run `mvn package`.
 ## Performance
 A aliyun ECS with 4G memory can support 60k connections.
+## License
+    Copyright 2018 YangGuo
+    MIT License
