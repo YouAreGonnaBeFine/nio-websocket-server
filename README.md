@@ -13,3 +13,5 @@ a high performance websocket server base on [SpringBoot](https://projects.spring
 ### Edit the application.properties file
 The location is `/athena-s-alpha/src/main/resources/application.properties`.
 
+## Performance
+a aliyun ECS with 4G memory can support 60k connections 
