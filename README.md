@@ -2,7 +2,7 @@ WebSocket Server
 ===============
 
 ## Summary
-a high performance websocket server base on [SpringBoot](https://projects.spring.io/spring-boot/)   and [Netty](http://netty.io/)  
+A high performance websocket server base on [SpringBoot](https://projects.spring.io/spring-boot/)   and [Netty](http://netty.io/)  
 
 ## Usage
 ### You require the following to run the program:
@@ -13,7 +13,7 @@ a high performance websocket server base on [SpringBoot](https://projects.spring
 ### Edit the application.properties file
 The location is `/athena-s-alpha/src/main/resources/application.properties`.
 
-### Run `mvn package`
-
+### Build Java code
+Run `mvn package`
 ## Performance
-a aliyun ECS with 4G memory can support 60k connections 
+A aliyun ECS with 4G memory can support 60k connections 
